@@ -9,6 +9,8 @@ body{
     /* max-width: none; */
     width: auto;
     height: auto;
+
+    
 }
 .pst {
     color: brown;
@@ -20,6 +22,8 @@ body{
     bottom: auto;
     background-color:chocolate;
 
+    border: 2px solid black;
+
 }
 
 .asst {
@@ -30,4 +34,6 @@ body{
     left: 60%;
     bottom: 30%;
     background-color:gold;
+
+    border: 2px solid black;
 }
