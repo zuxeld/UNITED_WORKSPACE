@@ -1,0 +1,33 @@
+body{
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    /* max-height: 1000px; */
+    /* max-width: none; */
+    width: auto;
+    height: auto;
+}
+.pst {
+    color: brown;
+    display: inline;
+    position: relative;
+    top: auto;
+    right: 30%;
+    left: 30%;
+    bottom: auto;
+    background-color:chocolate;
+
+}
+
+.asst {
+    display: inline-block;
+    position: relative;
+    top: 30%;
+    right: 10%;
+    left: 60%;
+    bottom: 30%;
+    background-color:gold;
+}
